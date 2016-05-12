@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the very first IP law bot, created by Gualtiero Dragotti\n![Gualtiero](https://www.dlapiper.com/it/italy/people/d/dragotti-gualtiero-luca/)\nWant to know more about bots or learn about DLA Piper %[I'm here for the bot](postback:here_for_the_bot) %[Learn about DLA Piper](postback:learn_about_dla) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "HELLO": "Hey, I'm so glad you set this bot up! Do you want to tell Gualtiero Dragtti that you're talking to his bot? %[Tell him](postback:twitter)",
+    "TELL HIM": "Let's tweet @ gdragotti so he knows you're interested to Legal bot. Here's a tweet that's ready to go: %[Tweet Gualtiero](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
