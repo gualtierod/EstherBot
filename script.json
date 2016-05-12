@@ -2,7 +2,7 @@
     "BOT": "Hi there!\nI’m the very first IP law bot, created by Gualtiero Dragotti\n![Gualtiero](https://www.dlapiper.com/it/italy/people/d/dragotti-gualtiero-luca/)\nWant to know more about bots or learn about DLA Piper %[I'm here for the bot](postback:here_for_the_bot) %[Learn about DLA Piper](postback:learn_about_dla) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set this bot up! Do you want to tell Gualtiero Dragtti that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @gdragotti so he knows you're interested to Legal bot. \nHere'we go: %[Tweet Gualtiero](https://twitter.com/gdragotti)",
-    "HELP": "Just tell me a number, and I will give you the text of the corresponding section of the Italian IP Code (http://www.altalex.com/documents/codici-altalex/2014/10/30/codice-della-proprieta-industriale)"
+    "HELP": "Just tell me a number, and I will give you the text of the corresponding section of the Italian IP Code (http://www.altalex.com/documents/codici-altalex/2014/10/30/codice-della-proprieta-industriale)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
